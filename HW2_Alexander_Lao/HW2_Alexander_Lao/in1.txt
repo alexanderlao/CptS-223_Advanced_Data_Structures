@@ -1,0 +1,28 @@
+set(This is HW3)
+substr(0,11)
+suffix_of_length(10)
+substr(2,4)
+reverse
+substr(1,6)
+indexof(a,0)
+indexof(a,10)
+split( )
+set(iceman)
+anagrams(no,iicceemmaanncinema,ice,man,icemann,anemic,blah,nameci)
+substr(2,1)
+indexof(man,2)
+set(a;b;c;d;e;f;g)
+split(;)
+set(retains)
+indexof(tain,0)
+split( )
+split(a)
+split(p)
+bad_char_table
+anagrams(aanestri,anestri,asterin,nope,saint,staing,eranist,nastier,ratines,resiant,cs 223,is,awesome,restain,retinas,retsina,sainter,stainer,starnie,stearin)
+substr(2,5)
+set(12345)
+is_integer
+set(12Hello)
+is_integer
+quit
